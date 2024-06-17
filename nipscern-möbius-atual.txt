@@ -14,11 +14,76 @@ Documentação            - Helvetia
 AURORA
 
 
+Node.js
+
 https://en.wikipedia.org/wiki/Costa%27s_minimal_surface#/media/File:Flower_Costa_minimal_surface.stl
 
-Treino Calistenia
 Front - Angular  e outros IGTI
 UI e UX para Programadores
 WebProcess - Domine os processos de criação de websites
 JavaScript do Básico ao Avançado (Com Node.js e Projetos) (06-2023) - Matheus Battisti
 Desvendando a web HTML, CSS, Javascript e Typescript [2023]
+
+Planejamento Detalhado de 6 Meses
+Mês 1: Crafting Interpreters
+Semana 1:
+Leitura: Capítulos 1 a 3
+Implementação: Iniciar o scanner (Capítulo 4)
+Semana 2:
+Leitura: Capítulos 4 a 6
+Implementação: Representação de código e parsing de expressões
+Semana 3:
+Leitura: Capítulos 7 a 8
+Implementação: Avaliação de expressões e estados
+Semana 4:
+Leitura: Capítulos 9 a 10
+Implementação: Fluxo de controle e funções simples
+Mês 2: Flex & Bison Book
+Semana 1:
+Leitura: Capítulos 1 a 3
+Implementação: Configuração inicial de Flex e Bison
+Semana 2:
+Leitura: Capítulos 4 a 5
+Implementação: Construção de um analisador léxico simples
+Semana 3:
+Leitura: Capítulos 6 a 7
+Implementação: Construção de um analisador sintático simples
+Semana 4:
+Integração: Aplicar o conhecimento adquirido no projeto iniciado no Crafting Interpreters
+Meses 3-5: Making a COMPILER FROM SCRATCH in C (Playlist)
+Semanas 1-2 (Mês 3):
+Visualização: Vídeos 1 a 10
+Implementação: Configuração e início da geração de AST
+Semanas 3-4 (Mês 3):
+Visualização: Vídeos 11 a 20
+Implementação: Melhorias na geração de AST e início do codegen
+Semanas 1-2 (Mês 4):
+Visualização: Vídeos 21 a 30
+Implementação: Implementação e refinamento do codegen
+Semanas 3-4 (Mês 4):
+Visualização: Vídeos 31 a 40
+Implementação: Continuação do codegen e integração com partes anteriores
+Semanas 1-2 (Mês 5):
+Visualização: Vídeos 41 a 50
+Implementação: Otimizações e adição de novas funcionalidades
+Semanas 3-4 (Mês 5):
+Visualização: Vídeos 51 a 60
+Implementação: Finalização das funcionalidades básicas e começo das avançadas
+Mês 6: Refinamento e Integração
+Semana 1:
+Revisão: Análise completa do código escrito
+Implementação: Correções de bugs e ajustes
+Semana 2:
+Testes: Testes unitários e de integração
+Implementação: Otimização do desempenho
+Semana 3:
+Revisão: Refatoração do código para maior clareza e eficiência
+Implementação: Adição de documentação e comentários
+Semana 4:
+Integração: Verificação da compatibilidade e integração completa do compilador com o restante do projeto
+Implementação: Testes finais e preparação para a entrega
+Pontos Importantes
+Consistência: Manter a disciplina de estudar e implementar diariamente.
+Revisão e Testes: Realizar revisões periódicas e testes para garantir que tudo está funcionando corretamente.
+Documentação: Manter uma boa documentação do código para facilitar a manutenção e futuras melhorias.
+Com esse planejamento, você poderá acompanhar seu progresso e ajustar conforme necessário. Boa sorte na sua jornada para criar um compilador C! Se precisar de mais ajuda ou tiver dúvidas durante o processo, sinta-se à vontade para perguntar.
