@@ -1,0 +1,157 @@
+<mxfile host="Electron" modified="2024-06-15T03:32:14.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="ZTI_zr4jm5muZQ7XsGFt" version="24.5.3" type="device">
+  <diagram name="Page-1" id="OpkqRfTnm9AB5B4QFpm8">
+    <mxGraphModel dx="9826" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=80;" edge="1" parent="1" source="e6rNYd3HdtFBjfgFJRNg-1" target="e6rNYd3HdtFBjfgFJRNg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-1" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;NIPSCERN&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Site nipscern.com;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3400" y="-1000" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-2" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;SaphoIDE&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-4260" y="3320" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-5" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;nipscern.com&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="10" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-6" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;sapho.nipscern.com&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-4260" y="2190" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-7" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;aurora.nipscern.com&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2840" y="7790" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-10" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;NIPSCERN Director&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4250" y="20" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-11" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;SAPHO&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Site nipscern.com;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="10" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-12" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;AURORA&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Site nipscern.com;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="6860" y="-10" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-13" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador C&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-4260" y="4460" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-14" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador ASM&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-4260" y="5600" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-23" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Documentação&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Site nipscern.com;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="9380" y="10" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=80;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6rNYd3HdtFBjfgFJRNg-1" target="e6rNYd3HdtFBjfgFJRNg-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1180" y="-470" as="sourcePoint" />
+            <mxPoint x="-110" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=80;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6rNYd3HdtFBjfgFJRNg-11" target="e6rNYd3HdtFBjfgFJRNg-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="-40" as="sourcePoint" />
+            <mxPoint x="4350" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=80;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6rNYd3HdtFBjfgFJRNg-11" target="e6rNYd3HdtFBjfgFJRNg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="sourcePoint" />
+            <mxPoint x="-1150" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=80;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6rNYd3HdtFBjfgFJRNg-11" target="e6rNYd3HdtFBjfgFJRNg-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="310" as="sourcePoint" />
+            <mxPoint x="-1150" y="2730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=80;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6rNYd3HdtFBjfgFJRNg-11" target="e6rNYd3HdtFBjfgFJRNg-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="560" as="sourcePoint" />
+            <mxPoint x="-1150" y="3870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-29" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Processador&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-4260" y="6740" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=80;exitX=0.075;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="e6rNYd3HdtFBjfgFJRNg-11" target="e6rNYd3HdtFBjfgFJRNg-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="1041" as="sourcePoint" />
+            <mxPoint x="-1150" y="5010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-31" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;nipscern.com&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="11550" y="9080" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-33" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;SaphoIDE&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="3330" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-34" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;sapho.nipscern.com&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="2200" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-35" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador C&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="4470" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-36" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador ASM&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="5610" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-37" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Processador&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="6750" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-38" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;SaphoIDE&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="3300" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-39" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;sapho.nipscern.com&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="2170" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-40" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador C&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="4440" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-41" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador ASM&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="5580" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-42" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Processador&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="6720" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-43" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;SaphoIDE&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5970" y="3330" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-44" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;sapho.nipscern.com&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5970" y="2200" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-45" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador C&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5970" y="4470" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-46" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador ASM&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5970" y="5610" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-47" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Processador&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5970" y="6750" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-48" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;SaphoIDE&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="9360" y="3300" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-49" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;sapho.nipscern.com&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="9360" y="2170" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-50" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador C&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="9360" y="4440" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-51" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Compilador ASM&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="9360" y="5580" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-52" value="&lt;span style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;Processador&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;NIPSCERN DIRECTOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;rounded=1;glass=0;shadow=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="9360" y="6720" width="1000" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=80;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6rNYd3HdtFBjfgFJRNg-23" target="e6rNYd3HdtFBjfgFJRNg-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="13210" y="1540" as="sourcePoint" />
+            <mxPoint x="10770" y="4220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6rNYd3HdtFBjfgFJRNg-54" value="Fazer script de rotina que, se não baixar o programa, me mande um e-mail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=500;" vertex="1" parent="1">
+          <mxGeometry x="-8990" y="10060" width="16640" height="610" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

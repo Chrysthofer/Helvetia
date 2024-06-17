@@ -1,0 +1,24 @@
+https://www.youtube.com/playlist?list=PLysa8wRFCssxGKj_RxBWr3rwmjEYlJIpa (Playlist C Compiler from Scratch)
+https://craftinginterpreters.com/contents.html
+https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&index=1 (C from Scratch)
+https://www.youtube.com/watch?v=yLNWu6AxftI&list=PLvv0ScY6vfd8M-Mi_Vyrg7KgISTW3Sklt (C from Scratch + OOP)
+
+Compilador C/ASM        - Möbius
+Compilador ASM/MIF      - Enneper
+IDE                     - Gackstatter
+Gerenciador de Download - Torus (NIPSCERN Director)
+Site                    - Ion 
+Documentação            - Helvetia
+
+---------------------------
+AURORA
+
+
+https://en.wikipedia.org/wiki/Costa%27s_minimal_surface#/media/File:Flower_Costa_minimal_surface.stl
+
+Treino Calistenia
+Front - Angular  e outros IGTI
+UI e UX para Programadores
+WebProcess - Domine os processos de criação de websites
+JavaScript do Básico ao Avançado (Com Node.js e Projetos) (06-2023) - Matheus Battisti
+Desvendando a web HTML, CSS, Javascript e Typescript [2023]
